@@ -32,4 +32,4 @@ For any question regarding this project, my preferred method of communication is
 
 <a name='screenshot'></a>
  ## Screenshot 
-![Screenshot](https://screenshot.JPG)
+![Screenshot](https://raw.githubusercontent.com/sean-mcelwain/Book_Search_Engine/main/screenshot.jpg)
