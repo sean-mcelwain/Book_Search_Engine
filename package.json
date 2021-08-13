@@ -16,6 +16,8 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
+    "@apollo/client": "^3.4.7",
+    "apollo-link-context": "^1.0.20",
     "apollo-server-express": "^3.1.2"
   }
 }
