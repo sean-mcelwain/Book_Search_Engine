@@ -1,4 +1,4 @@
-# Book Serach Engine App - ReadMe
+# Book Search Engine App - ReadMe
 <a name='description'></a>
  ## Description 
 This application allows a user to search for books. 
